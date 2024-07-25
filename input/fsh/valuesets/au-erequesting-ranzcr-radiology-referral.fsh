@@ -1,7 +1,7 @@
 ValueSet: RANZCRRadiologyReferral
-Id: ranzcr-radiology-referral
-Title: "RANZCR Referral Procedures"
-Description: "Standard codes for use in requesting radiology tests in Australia, derived from the RANZCR Radiology Referral Set (RRS)."
+Id: ranzcr-radiology-referral-valueset
+Title: "RANZCR Radiology Referral FHIR ValueSet"
+Description: "Standard precoordinated SCT codes for radiology procedures in Australia, derived from the RANZCR Radiology Referral Set (RRS)."
 * ^meta.profile[+] = "http://hl7.org/fhir/StructureDefinition/shareablevalueset"
 * ^url = "https://ranzcr.com/fhir/ValueSet/radiology-referral"
 * ^version = "1.0.0"
