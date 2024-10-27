@@ -37,7 +37,7 @@ Many value sets used in this guide are defined in the base FHIR specification, [
 |[RequestIntent](https://hl7.org/fhir/R4/valueset-request-intent.html)|[AU eRequesting ServiceRequest](StructureDefinition-au-erequesting-servicerequest.html)|FHIR|
 |[RequestStatus](https://hl7.org/fhir/R4/valueset-request-status.html)|[AU eRequesting ServiceRequest](StructureDefinition-au-erequesting-servicerequest.html)|FHIR|
 |[AU eRequesting Task Status](ValueSet-au-erequesting-task-status.html)|[AU eRequesting Task](StructureDefinition-au-erequesting-task.html)|AU eRequesting|
-|[AU eRequesting Coverage Type Self-pay](http://hl7.org.au/fhir/ereq/ValueSet/au-erequesting-coverage-self-pay)||AU eRequesting|
+|[AU eRequesting Coverage Type Self-pay](ValueSet-au-erequesting-coverage-self-pay.html)||AU eRequesting|
 {:.grid}
 
 
