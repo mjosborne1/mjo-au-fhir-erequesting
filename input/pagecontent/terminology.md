@@ -71,7 +71,3 @@ The list below shows the code systems used in the value sets above.
 |[TaskStatus](https://hl7.org/fhir/R4/codesystem-task-status.html)|[AU eRequesting Task Status](ValueSet-au-erequesting-task-status.html)|FHIR|
 |[v3.ActCoverageTypeCode](http://terminology.hl7.org/ValueSet/v3-ActCoverageTypeCode)|[AU eRequesting Coverage Type Self-Pay](ValueSet-au-erequesting-coverage-self-pay.html)|FHIR|
 {:.grid}
-
-
-
-
