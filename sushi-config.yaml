@@ -105,6 +105,8 @@ parameters:  # see https://confluence.hl7.org/display/FHIR/Implementation+Guide+
     - http://terminology.hl7.org.au/CodeSystem/communicationrequest-reason
     - http://terminology.hl7.org.au/CodeSystem/resource-tag
     - http://terminology.hl7.org.au/CodeSystem/task-business-status
+    - https://healthterminologies.gov.au/fhir/ValueSet/medication-ingredient-1
+    - https://healthterminologies.gov.au/fhir/ValueSet/adverse-reaction-clinical-manifestation-1
     #- input/summaries
   path-expansion-params: '../../input/_resources/exp-params.json' 
   active-tables: false
