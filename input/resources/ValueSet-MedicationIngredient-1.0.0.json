@@ -1,6 +1,6 @@
 {
   "resourceType": "ValueSet",
-  "id": "medication-ingredient-1.0.0",
+  "id": "medication-ingredient-1",
   "meta": {
     "profile": [
       "http://hl7.org/fhir/StructureDefinition/shareablevalueset",
@@ -47,6 +47,11 @@
             "op": "in",
             "value": "929360061000036106"
           }
+        ]
+      },
+      {
+        "valueSet" : [
+            "https://healthterminologies.gov.au/fhir/ValueSet/substance-1"
         ]
       }
     ]
